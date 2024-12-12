@@ -1,0 +1,17 @@
+{
+	id: "23ae852c-c922-3caa-b42c-37a81d0fba1c"
+	type: "player"
+	player_name: "Baeel"
+	ranks: {
+		23ae852c-c922-3caa-b42c-37a81d0fba1c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Baeel"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
