@@ -19832,3 +19832,94 @@ Join our Discord: https://discord.gg/pgYaVNbCTE
 [12Dec2024 04:51:10.282] [Worker-Main-31/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-31 shutdown
 [12Dec2024 04:52:10.282] [Worker-Main-26/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-26 shutdown
 [12Dec2024 04:53:10.282] [Worker-Main-14/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-14 shutdown
+[12Dec2024 04:54:10.282] [Worker-Main-8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-8 shutdown
+[12Dec2024 04:55:10.282] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-10 shutdown
+[12Dec2024 04:55:15.033] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[12Dec2024 04:55:15.034] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[12Dec2024 04:55:15.034] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[12Dec2024 04:55:15.034] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[12Dec2024 04:55:15.036] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[12Dec2024 04:55:15.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 04:55:15.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 04:56:10.282] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[12Dec2024 04:57:08.631] [Server thread/INFO] [Console/]: Plugins (4): SkinsRestorer, CustomJoinMessages, advancedChat, Spawn
+[12Dec2024 04:57:10.282] [Worker-Main-29/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-29 shutdown
+[12Dec2024 04:58:10.282] [Worker-Main-30/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-30 shutdown
+[12Dec2024 04:58:17.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12Dec2024 04:58:17.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Dec2024 04:58:17.683] [Server thread/INFO] [Spawn/]: Disabling Spawn v2.4.1
+[12Dec2024 04:58:17.685] [Server thread/INFO] [advancedChat/]: Disabling advancedChat v1.0.4
+[12Dec2024 04:58:17.691] [Server thread/INFO] [advancedChat/]:  ▄▄▄       ▄████▄   ██░ ██  ▄▄▄     ▄▄▄█████▓
+[12Dec2024 04:58:17.691] [Server thread/INFO] [advancedChat/]: ▒████▄    ▒██▀ ▀█  ▓██░ ██▒▒████▄   ▓  ██▒ ▓▒
+[12Dec2024 04:58:17.692] [Server thread/INFO] [advancedChat/]: ▒██  ▀█▄  ▒▓█    ▄ ▒██▀▀██░▒██  ▀█▄ ▒ ▓██░ ▒░
+[12Dec2024 04:58:17.692] [Server thread/INFO] [advancedChat/]: ░██▄▄▄▄██ ▒▓▓▄ ▄██▒░▓█ ░██ ░██▄▄▄▄██░ ▓██▓ ░ 
+[12Dec2024 04:58:17.692] [Server thread/INFO] [advancedChat/]:  ▓█   ▓██▒▒ ▓███▀ ░░▓█▒░██▓ ▓█   ▓██▒ ▒██▒ ░ 
+[12Dec2024 04:58:17.693] [Server thread/INFO] [advancedChat/]:  ▒▒   ▓▒█░░ ░▒ ▒  ░ ▒ ░░▒░▒ ▒▒   ▓▒█░ ▒ ░░   
+[12Dec2024 04:58:17.694] [Server thread/INFO] [advancedChat/]:   ▒   ▒▒ ░░ ░░   ░ ▒░ ░ ░  ░  ▒ ░ ░  ▒░▒   ░  ▒ ░ ░ ░  ░
+[12Dec2024 04:58:17.694] [Server thread/INFO] [advancedChat/]:   ░   ▒      ░   ░ ░    ░     ░   ░   ░    ░  ▒ ░   ░   
+[12Dec2024 04:58:17.695] [Server thread/INFO] [advancedChat/]:       ░  ░         ░    ░  ░    ░     ░       ░     ░  ░
+[12Dec2024 04:58:17.695] [Server thread/INFO] [advancedChat/]: ║ Plugin has been disabled!
+[12Dec2024 04:58:17.697] [Server thread/INFO] [advancedChat/]: ║ aChat - Advanced ChatCommands Plugin | Version: 1.0.4
+[12Dec2024 04:58:17.698] [Server thread/INFO] [advancedChat/]: ║ Author: mustiffy | Discord: https://discord.gg/pgYaVNbCTE
+[12Dec2024 04:58:17.699] [Server thread/INFO] [advancedChat/]: 
+[12Dec2024 04:58:17.700] [Server thread/INFO] [CustomJoinMessages/]: Disabling CustomJoinMessages v17.6.0
+[12Dec2024 04:58:17.702] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.0
+[12Dec2024 04:58:17.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Dec2024 04:58:17.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Dec2024 04:58:17.719] [Worker-Main-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-57
+[12Dec2024 04:58:17.719] [Worker-Main-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-58
+[12Dec2024 04:58:17.719] [Worker-Main-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-59
+[12Dec2024 04:58:17.720] [Worker-Main-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-60
+[12Dec2024 04:58:17.720] [Worker-Main-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-61
+[12Dec2024 04:58:17.720] [Worker-Main-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-62
+[12Dec2024 04:58:17.720] [Worker-Main-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-63
+[12Dec2024 04:58:17.720] [Worker-Main-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-64
+[12Dec2024 04:58:17.720] [Worker-Main-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-65
+[12Dec2024 04:58:17.720] [Worker-Main-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-66
+[12Dec2024 04:58:17.720] [Worker-Main-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-67
+[12Dec2024 04:58:17.720] [Worker-Main-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-68
+[12Dec2024 04:58:17.720] [Worker-Main-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-69
+[12Dec2024 04:58:17.721] [Worker-Main-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-70
+[12Dec2024 04:58:17.726] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[12Dec2024 04:58:17.727] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[12Dec2024 04:58:17.732] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[12Dec2024 04:58:17.734] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[12Dec2024 04:58:19.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Dec2024 04:58:22.499] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[12Dec2024 04:58:22.499] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[12Dec2024 04:58:22.501] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[12Dec2024 04:58:22.506] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[12Dec2024 04:58:22.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 04:58:22.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 04:58:22.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[12Dec2024 04:58:22.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[12Dec2024 04:58:22.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/lostcities/lostcity]'/lostcities:lostcity
+[12Dec2024 04:58:22.627] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[12Dec2024 04:58:22.627] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[12Dec2024 04:58:22.655] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[12Dec2024 04:58:22.655] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[12Dec2024 04:58:22.655] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[12Dec2024 04:58:22.655] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[12Dec2024 04:58:22.655] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for lostcities:lostcity
+[12Dec2024 04:58:22.655] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for lostcities:lostcity
+[12Dec2024 04:58:22.656] [Worker-Main-61/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-61 shutdown
+[12Dec2024 04:58:22.657] [Worker-Main-62/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-62 shutdown
+[12Dec2024 04:58:22.657] [Worker-Main-58/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-58 shutdown
+[12Dec2024 04:58:22.657] [Worker-Main-15/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-15 shutdown
+[12Dec2024 04:58:22.657] [Worker-Main-68/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-68 shutdown
+[12Dec2024 04:58:22.657] [Worker-Main-70/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-70 shutdown
+[12Dec2024 04:58:22.657] [Worker-Main-59/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-59 shutdown
+[12Dec2024 04:58:22.657] [Worker-Main-57/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-57 shutdown
+[12Dec2024 04:58:22.657] [Worker-Main-64/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-64 shutdown
+[12Dec2024 04:58:22.657] [Worker-Main-66/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-66 shutdown
+[12Dec2024 04:58:22.657] [Worker-Main-63/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-63 shutdown
+[12Dec2024 04:58:22.657] [Worker-Main-67/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-67 shutdown
+[12Dec2024 04:58:22.657] [Worker-Main-60/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-60 shutdown
+[12Dec2024 04:58:22.657] [Worker-Main-69/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-69 shutdown
+[12Dec2024 04:58:22.657] [Worker-Main-65/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-65 shutdown
+[12Dec2024 04:58:22.659] [Server thread/INFO] [Framework/]: Unloading server configs...
+[12Dec2024 04:58:22.670] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[12Dec2024 04:58:22.671] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[12Dec2024 04:58:22.678] [Server thread/DEBUG] [org.jline/]: Removing shutdown-hook: Thread[JLine Shutdown Hook,5,main]
+[12Dec2024 04:58:27.680] [Exit Thread/DEBUG] [Arclight/]: Threads bStats-Metrics, bStats-Metrics, bStats-Metrics not shutting down
+[12Dec2024 04:58:27.680] [Exit Thread/INFO] [Arclight/]: 3 threads not shutting down correctly, force exiting

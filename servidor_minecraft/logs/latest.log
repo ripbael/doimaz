@@ -5537,3 +5537,31 @@ Join our Discord: https://discord.gg/pgYaVNbCTE
 [12Dec2024 04:44:09.993] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Baeel
 [12Dec2024 04:44:09.996] [Server thread/INFO] [Console/]: [§x-] Baeel Now we are 0 players.
 [12Dec2024 04:44:09.999] [Server thread/INFO] [Console/]: Baeel has left!
+[12Dec2024 04:57:08.631] [Server thread/INFO] [Console/]: Plugins (4): SkinsRestorer, CustomJoinMessages, advancedChat, Spawn
+[12Dec2024 04:58:17.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12Dec2024 04:58:17.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Dec2024 04:58:17.683] [Server thread/INFO] [Spawn/]: Disabling Spawn v2.4.1
+[12Dec2024 04:58:17.685] [Server thread/INFO] [advancedChat/]: Disabling advancedChat v1.0.4
+[12Dec2024 04:58:17.691] [Server thread/INFO] [advancedChat/]:  ▄▄▄       ▄████▄   ██░ ██  ▄▄▄     ▄▄▄█████▓
+[12Dec2024 04:58:17.691] [Server thread/INFO] [advancedChat/]: ▒████▄    ▒██▀ ▀█  ▓██░ ██▒▒████▄   ▓  ██▒ ▓▒
+[12Dec2024 04:58:17.692] [Server thread/INFO] [advancedChat/]: ▒██  ▀█▄  ▒▓█    ▄ ▒██▀▀██░▒██  ▀█▄ ▒ ▓██░ ▒░
+[12Dec2024 04:58:17.692] [Server thread/INFO] [advancedChat/]: ░██▄▄▄▄██ ▒▓▓▄ ▄██▒░▓█ ░██ ░██▄▄▄▄██░ ▓██▓ ░ 
+[12Dec2024 04:58:17.692] [Server thread/INFO] [advancedChat/]:  ▓█   ▓██▒▒ ▓███▀ ░░▓█▒░██▓ ▓█   ▓██▒ ▒██▒ ░ 
+[12Dec2024 04:58:17.693] [Server thread/INFO] [advancedChat/]:  ▒▒   ▓▒█░░ ░▒ ▒  ░ ▒ ░░▒░▒ ▒▒   ▓▒█░ ▒ ░░   
+[12Dec2024 04:58:17.694] [Server thread/INFO] [advancedChat/]:   ▒   ▒▒ ░░ ░░   ░ ▒░ ░ ░  ░  ▒ ░ ░  ▒░▒   ░  ▒ ░ ░ ░  ░
+[12Dec2024 04:58:17.694] [Server thread/INFO] [advancedChat/]:   ░   ▒      ░   ░ ░    ░     ░   ░   ░    ░  ▒ ░   ░   
+[12Dec2024 04:58:17.695] [Server thread/INFO] [advancedChat/]:       ░  ░         ░    ░  ░    ░     ░       ░     ░  ░
+[12Dec2024 04:58:17.695] [Server thread/INFO] [advancedChat/]: ║ Plugin has been disabled!
+[12Dec2024 04:58:17.697] [Server thread/INFO] [advancedChat/]: ║ aChat - Advanced ChatCommands Plugin | Version: 1.0.4
+[12Dec2024 04:58:17.698] [Server thread/INFO] [advancedChat/]: ║ Author: mustiffy | Discord: https://discord.gg/pgYaVNbCTE
+[12Dec2024 04:58:17.699] [Server thread/INFO] [advancedChat/]: 
+[12Dec2024 04:58:17.700] [Server thread/INFO] [CustomJoinMessages/]: Disabling CustomJoinMessages v17.6.0
+[12Dec2024 04:58:17.702] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.0
+[12Dec2024 04:58:17.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Dec2024 04:58:17.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Dec2024 04:58:19.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Dec2024 04:58:22.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[12Dec2024 04:58:22.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[12Dec2024 04:58:22.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/lostcities/lostcity]'/lostcities:lostcity
+[12Dec2024 04:58:22.659] [Server thread/INFO] [Framework/]: Unloading server configs...
+[12Dec2024 04:58:27.680] [Exit Thread/INFO] [Arclight/]: 3 threads not shutting down correctly, force exiting
